@@ -9,8 +9,9 @@
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)](https://www.docker.com/)
 
-> 🔗 **Live Demo**: (https://ai-career-coach-zwr6.onrender.com)
+> 🔗 **Live Demo**: [https://ai-career-coach-zwr6.onrender.com](https://ai-career-coach-zwr6.onrender.com)
 
+[![Render](https://img.shields.io/badge/Render-API%20Live-brightgreen)](https://ai-career-coach-zwr6.onrender.com)
 ---
 
 ## 🎯 Problem
@@ -56,3 +57,7 @@ graph LR
   E --> F[Actionable Advice]
   F --> G[User]
 
+
+## 🧭 For Beginners
+
+New to APIs or Python? Check out our **[Beginner's Guide](USAGE.md)** for a step-by-step walkthrough — no coding experience needed!
