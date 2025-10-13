@@ -2,13 +2,14 @@
 
 > **Predict job-resume fit + get actionable advice to close skill gaps**  
 > Built for early-career data scientists navigating the volatile 2025 job market.
+> This is the intermediate version. See main for the version of advanced system of this project.
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)](https://www.docker.com/)
 
-> 🔗 **Live Demo**: [https://ai-career-coach.onrender.com](https://ai-career-coach.onrender.com) *(replace with your URL after deployment)*
+> 🔗 **Live Demo**: (https://ai-career-coach-zwr6.onrender.com)
 
 ---
 
