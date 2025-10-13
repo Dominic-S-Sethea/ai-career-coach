@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.ipynb_checkpoints
+
+# Data
+data/raw/
+
+# Git
+.git/
+.gitignore
+
+# Logs
+*.log
+
+# Local config
+.env
